@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 370
+slug  : meberi
+seal  : 7d1aa92245a20b32203d72fd10535ab4fba455fefd2b8834857efc7ab1abccb5
+prev  : 3bc3a8210c3f34ff949e4e33141b131917e4cb19ffd606f3961dff3375ef854d
+link  : adc817d0c80a8f14fc33d01022fc12754342d41c496a5a32c77491803bf43540
+head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
